@@ -1,1 +1,1 @@
-A web scraper made using Beautiful Soup
+A web scraper that uses Python's 'Beautiful Soup' library to gather data from links on Wikipedia
